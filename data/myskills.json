@@ -1,0 +1,97 @@
+{
+  "WebDevelopment": [
+    {
+      "name": "HTML",
+      "id": 1
+    },
+    {
+      "name": "HTML5",
+      "id": 2
+    },
+    {
+      "name": "CSS",
+      "id": 3
+    },
+    {
+      "name": "CSS3 ",
+      "id": 4
+    },
+    {
+      "name": "JAVASCRIPT",
+      "id": 5
+    },
+    {
+      "name": "JQUERY",
+      "id": 6
+    }
+  ],
+  "BackendDevelopment": [
+    {
+      "name": "PHP",
+      "id": 1
+    },
+    {
+      "name": "PYTHON",
+      "id": 2
+    },
+    {
+      "name": "JAVA",
+      "id": 3
+    }
+  ],
+  "Frameworks": [
+    {
+      "name": "Laravel",
+      "id": 1
+    },
+    {
+      "name": "Djanog",
+      "id": 2
+    },
+    {
+      "name": "Reactjs",
+      "id": 3
+    }
+  ],
+  "MobileDevelopment": [
+    {
+      "name": "Flutter",
+      "id": 1
+    }
+  ],
+  "Githublinks" :[
+    {
+      "name" : "ninja-coffee-shop with flutter",
+      "link" : "https://github.com/micaljohn60/ninja-coffee-shop",
+      "id" : 1
+    },
+    {
+      "name" : "world-time-app with flutter",
+      "link" : "https://github.com/micaljohn60/world_time_app_with_flutter",
+      "id" : 2
+    },
+    {
+      "name" : "Tic Tac Toe with Python",
+      "link" : "https://github.com/micaljohn60/tic_tac_toe_game",
+      "id" : 3
+    },   
+    {
+      "name" : "QA website",
+      "link" : "https://github.com/micaljohn60/qawebsite",
+      "id" : 4
+    },
+    {
+      "name" : "To Do List with Python",
+      "link" : "https://github.com/micaljohn60/To-Do-List-with-django-python",
+      "id" : 5
+    }, 
+    {
+      "name" : "Pirate Movie with Laravel",
+      "link" : "https://github.com/micaljohn60/piratemoviebyhi",
+      "id" : 6
+    }
+   
+    
+
+  ]
+}
