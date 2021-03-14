@@ -3,7 +3,7 @@ import SkillLists from './SkillLists';
 
 const Skills = () => {    
     
-    const {data, pending, error} = useFetch('https://micaljohn60.github.io/myskills.json');
+    const {data, pending, error} = useFetch('https://micaljohn60.github.io/apitests/myskills.json');
 
     return ( 
         <div>
