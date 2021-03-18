@@ -72,7 +72,7 @@ const SkillLists = ({ data }) => {
         <div className="row mt-5" style={{justifyContent : 'center'}}>
             <div className="title">
                 <i class="fab fa-github-alt me-3"></i>            
-                <a href="https://github.com/micaljohn60" className="title">To Github Links</a> 
+                <a target="#" href="https://github.com/micaljohn60" className="title">To Github Links</a> 
                 
                 <i class="fab fa-github-alt ms-3"></i>
             </div>
