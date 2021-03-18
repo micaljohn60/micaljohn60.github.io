@@ -18,7 +18,7 @@ const Home = () => {
                 </div>
                 <div className="col-lg-2">
                     <div className="shape" style={{
-                        backgroundImage: `url(${thor}),linear-gradient(#ffafbd,#ffc3a0 )`
+                        backgroundImage: `url(${rose}),linear-gradient(#ffafbd,#ffc3a0 )`
                     }} >
                        
                     </div>
